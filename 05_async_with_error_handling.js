@@ -15,10 +15,9 @@ fs.open(
             function (err, length) {
                 if (err) {
                     console.log("ERROR: " + err.code
-                        + " (" + err.message + ")");
+                                + " (" + err.message + ")");
                     return;
                 }
-
                 console.log(buf.toString('utf8', 0, length));
                 fs.close(handle, function () { /* don't care */ });
             }
