@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/01_simple_stream.js" line="9" mnemonic="2" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4547fc52-92c3-4e64-97d3-a057abc68ec4" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/australia2010/aus_01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/australia2010/aus_02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/australia2010/aus_03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/australia2010/aus_04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/australia2010/aus_05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/australia2010/aus_06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/australia2010/aus_07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/australia2010/aus_08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/australia2010/aus_09.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/japan2010/picture_001.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/japan2010/picture_002.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/japan2010/picture_003.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/japan2010/picture_004.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/japan2010/picture_005.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/japan2010/picture_006.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/japan2010/picture_007.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/albums/info.txt" />
+    <list default="true" id="4547fc52-92c3-4e64-97d3-a057abc68ec4" name="Default" comment="&lt;&lt;EOF&#10;* Expanding Your Web server&#10;* serving Static Content with Streams&#10;* Reading a File&#10;* Serving Static Files in a Web Server with buffers 03:00 &#10;* Serving Up More Than Just HTML 04:44 &#10;* Assembling Content on the Client; templates 06:25&#10;* The HTML Skeleton Page&#10;* Serving Static Content&#10;*  video/27/90&#10;EOF&#10;">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/info.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/japan2010/picture_001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/japan2010/picture_002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/japan2010/picture_003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/japan2010/picture_004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/japan2010/picture_005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/japan2010/picture_006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/japan2010/picture_007.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -40,31 +38,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05_mustache_server/server.js">
+      <file leaf-file-name="01_errors.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10_errors/01_errors.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="111" column="66" lean-forward="true" selection-start-line="111" selection-start-column="66" selection-end-line="111" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="basic.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05_mustache_server/basic.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05_mustache_server/content/home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="58" lean-forward="false" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+            <state relative-caret-position="240">
+              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -76,11 +54,15 @@
     <findStrings>
       <find>parsed_url</find>
       <find>bad_json</find>
-      <find>no_such_album</find>
       <find>this</find>
       <find>{}</find>
       <find>serve_pageserve_page</find>
       <find>serve_page</find>
+      <find>invalid_resource</find>
+      <find>four_oh_four</find>
+      <find>no_such_album</find>
+      <find>Missing credentials</find>
+      <find>uncaughtException</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -114,6 +96,10 @@
         <option value="$PROJECT_DIR$/06_parallel.js" />
         <option value="$PROJECT_DIR$/07_auto.js" />
         <option value="$PROJECT_DIR$/05_mustache_server/basic.html" />
+        <option value="$PROJECT_DIR$/04_middleware_intro/01_logging.js" />
+        <option value="$PROJECT_DIR$/04_middleware_intro/02_adding_modules.js" />
+        <option value="$PROJECT_DIR$/05_static_middleware/app/server.js" />
+        <option value="$PROJECT_DIR$/10_errors/01_errors.js" />
       </list>
     </option>
   </component>
@@ -124,11 +110,20 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/01_trivial_express/node_modules" />
+    <handled-path value="$PROJECT_DIR$/02_basic_routing/node_modules" />
+    <handled-path value="$PROJECT_DIR$/03_handlers_as_modules/node_modules" />
+    <handled-path value="$PROJECT_DIR$/04_middleware_intro/node_modules" />
+    <handled-path value="$PROJECT_DIR$/05_static_middleware/app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/06_body_parsing/node_modules" />
+    <handled-path value="$PROJECT_DIR$/07_method_override/node_modules" />
+    <handled-path value="$PROJECT_DIR$/08_compression/node_modules" />
+    <handled-path value="$PROJECT_DIR$/09_authentication/node_modules" />
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="29" />
-    <option name="y" value="64" />
+    <option name="x" value="36" />
+    <option name="y" value="84" />
     <option name="width" value="1251" />
     <option name="height" value="943" />
   </component>
@@ -171,7 +166,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
+              <option name="myItemId" value="10_errors" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -185,43 +180,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="05_mustache_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="A-Hands-On-Guide-to-Building-Web-Applications-in-JavaScript-2nd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="A-Hands-On-Guide-to-Building-Web-Applications-in-JavaScript-2nd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="05_mustache_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="templates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="A-Hands-On-Guide-to-Building-Web-Applications-in-JavaScript-2nd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="A-Hands-On-Guide-to-Building-Web-Applications-in-JavaScript-2nd" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="05_mustache_server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="content" />
+              <option name="myItemId" value="09_authentication" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -238,8 +197,8 @@
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
-  <component name="RunManager" selected="Node.js.server.js">
-    <configuration default="false" name="02_static_content_server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/02_static_content_server.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.01_errors.js">
+    <configuration default="false" name="02_upload_files.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/06_body_parsing/02_upload_files.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
       <profiling v8-profiler-path="" />
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -267,7 +226,7 @@
       </EXTENSION>
       <method />
     </configuration>
-    <configuration default="false" name="events_sidebar.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/events_sidebar.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="01_override.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/07_method_override/01_override.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
       <profiling v8-profiler-path="" />
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -295,7 +254,7 @@
       </EXTENSION>
       <method />
     </configuration>
-    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/05_mustache_server/server.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="01_express_compress.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/08_compression/01_express_compress.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
       <profiling v8-profiler-path="" />
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -323,7 +282,7 @@
       </EXTENSION>
       <method />
     </configuration>
-    <configuration default="false" name="03_static_content_pauses.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/03_static_content_pauses.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="server.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/09_authentication/server.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
       <profiling v8-profiler-path="" />
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -351,7 +310,7 @@
       </EXTENSION>
       <method />
     </configuration>
-    <configuration default="false" name="06_writing_a_file.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/06_writing_a_file.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="01_errors.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/10_errors/01_errors.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
       <profiling v8-profiler-path="" />
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -534,22 +493,54 @@
       </EXTENSION>
       <method />
     </configuration>
-    <list size="7">
+    <configuration default="false" name="01_logging.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="04_middleware_intro/01_logging.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
+      <envs>
+        <env name="NODE_ENV" value="dev" />
+      </envs>
+      <profiling v8-profiler-path="" />
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+        <profiling v8-profiler-path="" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Node.js.A-Hands-On-Guide-to-Building-Web-Applications-in-JavaScript-2nd" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.aa_promises.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.02_static_content_server.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.events_sidebar.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.server.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.03_static_content_pauses.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.06_writing_a_file.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.01_logging.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.02_upload_files.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.01_override.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.01_express_compress.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.server.js (1)" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.01_errors.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.06_writing_a_file.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.03_static_content_pauses.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.events_sidebar.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.02_static_content_server.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.01_errors.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.server.js (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.01_express_compress.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.01_override.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.02_upload_files.js" />
       </list>
     </recent_temporary>
   </component>
@@ -564,7 +555,7 @@
       <option name="presentableId" value="Default" />
       <updated>1488190757057</updated>
       <workItem from="1488190758372" duration="18349000" />
-      <workItem from="1488374246602" duration="22249000" />
+      <workItem from="1488374246602" duration="31556000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1488192284395</created>
@@ -615,14 +606,21 @@
       <option name="project" value="LOCAL" />
       <updated>1488471762920</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="&lt;&lt;EOF&#10;* Expanding Your Web server&#10;* serving Static Content with Streams&#10;* Reading a File&#10;* Serving Static Files in a Web Server with buffers 03:00 &#10;* Serving Up More Than Just HTML 04:44 &#10;* Assembling Content on the Client; templates 06:25&#10;* The HTML Skeleton Page&#10;* Serving Static Content&#10;*  video/27/90&#10;EOF&#10;">
+      <created>1488600352953</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1488600352954</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40598000" />
+    <option name="totallyTimeSpent" value="49905000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="29" y="64" width="1251" height="943" extended-state="0" />
+    <frame x="36" y="84" width="1251" height="943" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23021583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -630,11 +628,11 @@
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27803203" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15446225" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1750572" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23340961" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28489703" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28489703" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -659,7 +657,8 @@
     <MESSAGE value="&lt;&lt;EOF&#10;* Asynchronous Programming&#10;* Error Handling and Asynchronous Functions&#10;* The callback Function and Error Handling&#10;* Who Am I? Maintaining a Sense of Identity&#10;* Being Polite - learning to Give Up Control&#10;* Synchronous Functions Calls&#10;* video/27/86&#10;EOF&#10;" />
     <MESSAGE value="&lt;&lt;EOF&#10;* Writing Simple Applications&#10;* Your First JSON Server&#10;* Returning Some Data&#10;* Node Pattern: Asynchronous Loops&#10;* Learning to Juggle: handling More Requests&#10;* More on the Request and Response Objects&#10;* Modifying Things:POST Data( join string) 18:23&#10;* Receiving JSON POST Data&#10;* Receiving Form POST Data&#10;* video/27/87&#10;EOF&#10;" />
     <MESSAGE value="&lt;&lt;EOF&#10;* Modules &#10;* writing Simple Modeuls 01:01&#10;* Modeuls and Objects&#10;* The Factory Model  00:34&#10;* The Constructor Model 00:57&#10;* nom :The Node Package Manager 01:24&#10;* Consuming Modeles 03:13&#10;* searching  for Modules 03:27&#10;* Module Caching 03:53&#10;* Cycles 03:53&#10;* Writing Modules 03:53&#10;* Creating Your Module &#10;* Developing with Your Module  08:56&#10;*  video/27/88&#10;* Managing Asynchronous Code 00:01&#10;* Our preferred Solution -async, Executing Code win Serial&#10;* Looping Asynchronously&#10;* Making Promises and Keeping Them&#10;*  video/27/89&#10;EOF&#10;&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&lt;&lt;EOF&#10;* Modules &#10;* writing Simple Modeuls 01:01&#10;* Modeuls and Objects&#10;* The Factory Model  00:34&#10;* The Constructor Model 00:57&#10;* nom :The Node Package Manager 01:24&#10;* Consuming Modeles 03:13&#10;* searching  for Modules 03:27&#10;* Module Caching 03:53&#10;* Cycles 03:53&#10;* Writing Modules 03:53&#10;* Creating Your Module &#10;* Developing with Your Module  08:56&#10;*  video/27/88&#10;* Managing Asynchronous Code 00:01&#10;* Our preferred Solution -async, Executing Code win Serial&#10;* Looping Asynchronously&#10;* Making Promises and Keeping Them&#10;*  video/27/89&#10;EOF&#10;&#10;" />
+    <MESSAGE value="&lt;&lt;EOF&#10;* Expanding Your Web server&#10;* serving Static Content with Streams&#10;* Reading a File&#10;* Serving Static Files in a Web Server with buffers 03:00 &#10;* Serving Up More Than Just HTML 04:44 &#10;* Assembling Content on the Client; templates 06:25&#10;* The HTML Skeleton Page&#10;* Serving Static Content&#10;*  video/27/90&#10;EOF&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;&lt;EOF&#10;* Expanding Your Web server&#10;* serving Static Content with Streams&#10;* Reading a File&#10;* Serving Static Files in a Web Server with buffers 03:00 &#10;* Serving Up More Than Just HTML 04:44 &#10;* Assembling Content on the Client; templates 06:25&#10;* The HTML Skeleton Page&#10;* Serving Static Content&#10;*  video/27/90&#10;EOF&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -677,255 +676,35 @@
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/05_mustache_server/server.js</url>
-          <line>127</line>
+          <url>file://$PROJECT_DIR$/02_basic_routing/server.js</url>
+          <line>102</line>
           <properties />
-          <option name="timeStamp" value="67" />
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/05_mustache_server/server.js</url>
-          <line>117</line>
+          <url>file://$PROJECT_DIR$/10_errors/01_errors.js</url>
+          <line>21</line>
           <properties />
-          <option name="timeStamp" value="68" />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/10_errors/01_errors.js</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/10_errors/01_errors.js</url>
+          <line>2</line>
+          <properties />
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="69" />
+      <option name="time" value="74" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aa_promises.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="28" lean-forward="false" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05a_async_with_error_handling_arrow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11_sync_fileget.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_expensive_nextTick.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="20" lean-forward="false" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/albums/info.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_simple_server.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" lean-forward="false" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_load_albums.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="18" lean-forward="true" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02a_load_albums.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="true" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_ensure_folder.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_encsure_folder_fixed.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="32" column="20" lean-forward="true" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_multiple_requests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1845">
-          <caret line="143" column="9" lean-forward="false" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_get_params.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="73" column="32" lean-forward="true" selection-start-line="73" selection-start-column="32" selection-end-line="73" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_req_res.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_post_data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1317">
-          <caret line="56" column="23" lean-forward="false" selection-start-line="56" selection-start-column="23" selection-end-line="56" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_form_data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_form_data.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_mymodule.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_factory_model_test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_constructor_model_module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03_constructor_model_test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/02_factory_model_module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/mysql/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="72" column="4" lean-forward="true" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_album_module/album_mgr/Readme.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_album_module/album_mgr/lib/album.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_album_module/album_mgr/test/album_test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_album_module/test_album_mgr.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_album_module/album_mgr/lib/albums.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/04_album_module/album_mgr/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -1078,14 +857,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05_mustache_server/basic.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/05_mustache_server/content/home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1096,8 +867,252 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/05_mustache_server/server.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="111" column="66" lean-forward="true" selection-start-line="111" selection-start-column="66" selection-end-line="111" selection-end-column="66" />
+        <state relative-caret-position="246">
+          <caret line="115" column="21" lean-forward="false" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_mustache_server/basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_trivial_express/01_express_basic.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_trivial_express/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_basic_routing/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_basic_routing/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="44" lean-forward="false" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_handlers_as_modules/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_handlers_as_modules/handlers/albums.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="17" lean-forward="true" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_handlers_as_modules/handlers/helpers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_handlers_as_modules/handlers/pages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="59" lean-forward="true" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_handlers_as_modules/basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_handlers_as_modules/content/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_handlers_as_modules/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_handlers_as_modules/content/album.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_middleware_intro/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_middleware_intro/node_modules/response-time/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="36" column="9" lean-forward="false" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_middleware_intro/02_adding_modules.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_middleware_intro/01_logging.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_middleware_intro/03_query_parsing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" lean-forward="false" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_static_middleware/app/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_static_middleware/app/handlers/albums.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_middleware_intro/04_cookies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_middleware_intro/05_sessions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_body_parsing/01_parse_body.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/06_body_parsing/02_upload_files.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/07_method_override/01_override.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_compression/01_express_compress.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08_compression/02_compress_configured.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_authentication/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="115" column="28" lean-forward="true" selection-start-line="115" selection-start-column="28" selection-end-line="115" selection-end-column="28" />
+          <folding>
+            <marker date="1486340442000" expanded="true" signature="2742:2752" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/09_authentication/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_errors/01_errors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
           <folding />
         </state>
       </provider>
