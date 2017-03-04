@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4547fc52-92c3-4e64-97d3-a057abc68ec4" name="Default" comment="&lt;&lt;EOF&#10;* Expanding Your Web server&#10;* serving Static Content with Streams&#10;* Reading a File&#10;* Serving Static Files in a Web Server with buffers 03:00 &#10;* Serving Up More Than Just HTML 04:44 &#10;* Assembling Content on the Client; templates 06:25&#10;* The HTML Skeleton Page&#10;* Serving Static Content&#10;*  video/27/90&#10;EOF&#10;">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_08.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/australia2010/aus_09.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/info.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/japan2010/picture_001.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/japan2010/picture_002.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/japan2010/picture_003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/japan2010/picture_004.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/japan2010/picture_005.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/japan2010/picture_006.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/albums/japan2010/picture_007.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app.js" afterPath="" />
+    <list default="true" id="4547fc52-92c3-4e64-97d3-a057abc68ec4" name="Default" comment="&lt;&lt;EOF&#10;* Building Web Applications with Express 00:00 &#10;* Installing Express&#10;* Hello World in Express :&#10;* routing and Layers in Express 01:25&#10;* Routing Basics&#10;* Uploading Your Photo Album App for Routing 03:23&#10;* REST API Design and Modules&#10;* Modules &#10;* Additional Middleware Functionality 10:12 &#10;* ENV configurations&#10;* Ordering of Middleware &#10;* Static file Handling 17:18&#10;* File Uploads 18:08&#10;* Compressing Output 20:59&#10;* Adding Authentication to our Application 21:03 &#10;* Flash Messages&#10;* Error handling 25:09&#10;*  video/27/91&#10;EOF&#10;&#10;&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -38,11 +20,101 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="01_errors.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/10_errors/01_errors.js">
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_create_album/app/server.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="270">
+              <caret line="32" column="42" lean-forward="false" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_add_photos.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/02_create_album/static/templates/admin_add_photos.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="82" column="19" lean-forward="false" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pages.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_create_album/app/handlers/pages.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helpers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_with_user_auth/app/handlers/helpers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="admin_add_album.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_create_album/static/templates/admin_add_album.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="albums.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_create_album/app/handlers/albums.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="169">
+              <caret line="55" column="19" lean-forward="false" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="album.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_create_album/app/data/album.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="134" column="10" lean-forward="false" selection-start-line="134" selection-start-column="10" selection-end-line="134" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="helpers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_create_album/app/handlers/helpers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="backend_helpers.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_create_album/app/data/backend_helpers.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="local.config.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_create_album/app/local.config.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -60,9 +132,20 @@
       <find>serve_page</find>
       <find>invalid_resource</find>
       <find>four_oh_four</find>
-      <find>no_such_album</find>
       <find>Missing credentials</find>
       <find>uncaughtException</find>
+      <find>Aw, there was an error:</find>
+      <find>authenticate</find>
+      <find>authenticate1</find>
+      <find>photo_03.jpg</find>
+      <find>find</find>
+      <find>create_album</find>
+      <find>The specified album does not exist</find>
+      <find>body:</find>
+      <find>host_url</find>
+      <find>file_error</find>
+      <find>no_such_album</find>
+      <find>send_failure</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -100,6 +183,13 @@
         <option value="$PROJECT_DIR$/04_middleware_intro/02_adding_modules.js" />
         <option value="$PROJECT_DIR$/05_static_middleware/app/server.js" />
         <option value="$PROJECT_DIR$/10_errors/01_errors.js" />
+        <option value="$PROJECT_DIR$/01_mongodb_basics/test.js" />
+        <option value="$PROJECT_DIR$/01_mongodb_basics/01_mongo_basics.js" />
+        <option value="$PROJECT_DIR$/02_create_album/app/local.config.json" />
+        <option value="$PROJECT_DIR$/02_create_album/app/data/db.js" />
+        <option value="$PROJECT_DIR$/02_create_album/app/handlers/albums.js" />
+        <option value="$PROJECT_DIR$/02_create_album/app/data/album.js" />
+        <option value="$PROJECT_DIR$/02_create_album/app/handlers/pages.js" />
       </list>
     </option>
   </component>
@@ -110,16 +200,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/01_trivial_express/node_modules" />
-    <handled-path value="$PROJECT_DIR$/02_basic_routing/node_modules" />
-    <handled-path value="$PROJECT_DIR$/03_handlers_as_modules/node_modules" />
-    <handled-path value="$PROJECT_DIR$/04_middleware_intro/node_modules" />
-    <handled-path value="$PROJECT_DIR$/05_static_middleware/app/node_modules" />
-    <handled-path value="$PROJECT_DIR$/06_body_parsing/node_modules" />
-    <handled-path value="$PROJECT_DIR$/07_method_override/node_modules" />
-    <handled-path value="$PROJECT_DIR$/08_compression/node_modules" />
-    <handled-path value="$PROJECT_DIR$/09_authentication/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/01_mongodb_basics/node_modules" />
+    <handled-path value="$PROJECT_DIR$/02_create_album/app/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="36" />
@@ -166,7 +248,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="10_errors" />
+              <option name="myItemId" value="02_create_album" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -180,7 +270,91 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="09_authentication" />
+              <option name="myItemId" value="02_create_album" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A-Hands-On-Guide-to-Building-Web-Applications-in-JavaScript-2nd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A-Hands-On-Guide-to-Building-Web-Applications-in-JavaScript-2nd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_create_album" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="albums" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A-Hands-On-Guide-to-Building-Web-Applications-in-JavaScript-2nd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A-Hands-On-Guide-to-Building-Web-Applications-in-JavaScript-2nd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_create_album" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="albums" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hello222" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A-Hands-On-Guide-to-Building-Web-Applications-in-JavaScript-2nd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A-Hands-On-Guide-to-Building-Web-Applications-in-JavaScript-2nd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="02_create_album" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A-Hands-On-Guide-to-Building-Web-Applications-in-JavaScript-2nd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="A-Hands-On-Guide-to-Building-Web-Applications-in-JavaScript-2nd" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01_mongodb_basics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -197,8 +371,8 @@
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
-  <component name="RunManager" selected="Node.js.01_errors.js">
-    <configuration default="false" name="02_upload_files.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/06_body_parsing/02_upload_files.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.server.js">
+    <configuration default="false" name="01_mongo_basics.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/01_mongodb_basics/01_mongo_basics.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
       <profiling v8-profiler-path="" />
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -226,7 +400,7 @@
       </EXTENSION>
       <method />
     </configuration>
-    <configuration default="false" name="01_override.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/07_method_override/01_override.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/01_mongodb_basics/test.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
       <profiling v8-profiler-path="" />
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -254,7 +428,7 @@
       </EXTENSION>
       <method />
     </configuration>
-    <configuration default="false" name="01_express_compress.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/08_compression/01_express_compress.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/02_create_album/app/server.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
       <profiling v8-profiler-path="" />
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -282,7 +456,7 @@
       </EXTENSION>
       <method />
     </configuration>
-    <configuration default="false" name="server.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/09_authentication/server.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="albums.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/02_create_album/app/handlers/albums.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
       <profiling v8-profiler-path="" />
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -310,7 +484,7 @@
       </EXTENSION>
       <method />
     </configuration>
-    <configuration default="false" name="01_errors.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/10_errors/01_errors.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
+    <configuration default="false" name="album.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="$USER_HOME$/.nvm/versions/node/v7.6.0/bin/node" path-to-js-file="$PROJECT_DIR$/02_create_album/app/data/album.js" application-parameters="DEBUG=restfulPractice:*" working-dir="$PROJECT_DIR$">
       <profiling v8-profiler-path="" />
       <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
         <option name="envVars">
@@ -528,19 +702,19 @@
       <item index="0" class="java.lang.String" itemvalue="Node.js.A-Hands-On-Guide-to-Building-Web-Applications-in-JavaScript-2nd" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.aa_promises.js" />
       <item index="2" class="java.lang.String" itemvalue="Node.js.01_logging.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.02_upload_files.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.01_override.js" />
-      <item index="5" class="java.lang.String" itemvalue="Node.js.01_express_compress.js" />
-      <item index="6" class="java.lang.String" itemvalue="Node.js.server.js (1)" />
-      <item index="7" class="java.lang.String" itemvalue="Node.js.01_errors.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.01_mongo_basics.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
+      <item index="5" class="java.lang.String" itemvalue="Node.js.server.js" />
+      <item index="6" class="java.lang.String" itemvalue="Node.js.albums.js" />
+      <item index="7" class="java.lang.String" itemvalue="Node.js.album.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.01_errors.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.server.js (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.01_express_compress.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.01_override.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.02_upload_files.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.server.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.album.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.albums.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.01_mongo_basics.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.test.js" />
       </list>
     </recent_temporary>
   </component>
@@ -555,7 +729,7 @@
       <option name="presentableId" value="Default" />
       <updated>1488190757057</updated>
       <workItem from="1488190758372" duration="18349000" />
-      <workItem from="1488374246602" duration="31556000" />
+      <workItem from="1488374246602" duration="44482000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1488192284395</created>
@@ -613,26 +787,33 @@
       <option name="project" value="LOCAL" />
       <updated>1488600352954</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="&lt;&lt;EOF&#10;* Building Web Applications with Express 00:00 &#10;* Installing Express&#10;* Hello World in Express :&#10;* routing and Layers in Express 01:25&#10;* Routing Basics&#10;* Uploading Your Photo Album App for Routing 03:23&#10;* REST API Design and Modules&#10;* Modules &#10;* Additional Middleware Functionality 10:12 &#10;* ENV configurations&#10;* Ordering of Middleware &#10;* Static file Handling 17:18&#10;* File Uploads 18:08&#10;* Compressing Output 20:59&#10;* Adding Authentication to our Application 21:03 &#10;* Flash Messages&#10;* Error handling 25:09&#10;*  video/27/91&#10;EOF&#10;&#10;&#10;">
+      <created>1488609830688</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1488609830688</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49905000" />
+    <option name="totallyTimeSpent" value="62831000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="36" y="84" width="1251" height="943" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23021583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26858515" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27803203" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15446225" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23340961" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3569794" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28489703" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28489703" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -658,7 +839,8 @@
     <MESSAGE value="&lt;&lt;EOF&#10;* Writing Simple Applications&#10;* Your First JSON Server&#10;* Returning Some Data&#10;* Node Pattern: Asynchronous Loops&#10;* Learning to Juggle: handling More Requests&#10;* More on the Request and Response Objects&#10;* Modifying Things:POST Data( join string) 18:23&#10;* Receiving JSON POST Data&#10;* Receiving Form POST Data&#10;* video/27/87&#10;EOF&#10;" />
     <MESSAGE value="&lt;&lt;EOF&#10;* Modules &#10;* writing Simple Modeuls 01:01&#10;* Modeuls and Objects&#10;* The Factory Model  00:34&#10;* The Constructor Model 00:57&#10;* nom :The Node Package Manager 01:24&#10;* Consuming Modeles 03:13&#10;* searching  for Modules 03:27&#10;* Module Caching 03:53&#10;* Cycles 03:53&#10;* Writing Modules 03:53&#10;* Creating Your Module &#10;* Developing with Your Module  08:56&#10;*  video/27/88&#10;* Managing Asynchronous Code 00:01&#10;* Our preferred Solution -async, Executing Code win Serial&#10;* Looping Asynchronously&#10;* Making Promises and Keeping Them&#10;*  video/27/89&#10;EOF&#10;&#10;" />
     <MESSAGE value="&lt;&lt;EOF&#10;* Expanding Your Web server&#10;* serving Static Content with Streams&#10;* Reading a File&#10;* Serving Static Files in a Web Server with buffers 03:00 &#10;* Serving Up More Than Just HTML 04:44 &#10;* Assembling Content on the Client; templates 06:25&#10;* The HTML Skeleton Page&#10;* Serving Static Content&#10;*  video/27/90&#10;EOF&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&lt;&lt;EOF&#10;* Expanding Your Web server&#10;* serving Static Content with Streams&#10;* Reading a File&#10;* Serving Static Files in a Web Server with buffers 03:00 &#10;* Serving Up More Than Just HTML 04:44 &#10;* Assembling Content on the Client; templates 06:25&#10;* The HTML Skeleton Page&#10;* Serving Static Content&#10;*  video/27/90&#10;EOF&#10;" />
+    <MESSAGE value="&lt;&lt;EOF&#10;* Building Web Applications with Express 00:00 &#10;* Installing Express&#10;* Hello World in Express :&#10;* routing and Layers in Express 01:25&#10;* Routing Basics&#10;* Uploading Your Photo Album App for Routing 03:23&#10;* REST API Design and Modules&#10;* Modules &#10;* Additional Middleware Functionality 10:12 &#10;* ENV configurations&#10;* Ordering of Middleware &#10;* Static file Handling 17:18&#10;* File Uploads 18:08&#10;* Compressing Output 20:59&#10;* Adding Authentication to our Application 21:03 &#10;* Flash Messages&#10;* Error handling 25:09&#10;*  video/27/91&#10;EOF&#10;&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;&lt;EOF&#10;* Building Web Applications with Express 00:00 &#10;* Installing Express&#10;* Hello World in Express :&#10;* routing and Layers in Express 01:25&#10;* Routing Basics&#10;* Uploading Your Photo Album App for Routing 03:23&#10;* REST API Design and Modules&#10;* Modules &#10;* Additional Middleware Functionality 10:12 &#10;* ENV configurations&#10;* Ordering of Middleware &#10;* Static file Handling 17:18&#10;* File Uploads 18:08&#10;* Compressing Output 20:59&#10;* Adding Authentication to our Application 21:03 &#10;* Flash Messages&#10;* Error handling 25:09&#10;*  video/27/91&#10;EOF&#10;&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -682,157 +864,17 @@
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/10_errors/01_errors.js</url>
-          <line>21</line>
+          <url>file://$PROJECT_DIR$/01_mongodb_basics/test.js</url>
+          <line>49</line>
           <properties />
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/10_errors/01_errors.js</url>
-          <line>5</line>
-          <properties />
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/10_errors/01_errors.js</url>
-          <line>2</line>
-          <properties />
-          <option name="timeStamp" value="73" />
+          <option name="timeStamp" value="79" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="74" />
+      <option name="time" value="86" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/04_album_module/album_mgr/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="15" lean-forward="false" selection-start-line="2" selection-start-column="15" selection-end-line="2" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_async_vs_no_async.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="65" column="12" lean-forward="false" selection-start-line="65" selection-start-column="12" selection-end-line="65" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_auto.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="25" lean-forward="true" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_async_series.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_series.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" lean-forward="false" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_parallel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12_promises.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/11_async_auto.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_async_parallel.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01_simple_stream.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="16" lean-forward="false" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/05_mustache_server/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/04_pipe.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_writing_a_file.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/buffer_sidebar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/events_sidebar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/02_static_content_server.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -1053,9 +1095,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1095,9 +1135,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
           <caret line="115" column="28" lean-forward="true" selection-start-line="115" selection-start-column="28" selection-end-line="115" selection-end-column="28" />
-          <folding>
-            <marker date="1486340442000" expanded="true" signature="2742:2752" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1111,8 +1149,138 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/10_errors/01_errors.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="19" lean-forward="true" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        <state relative-caret-position="225">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../restfulPractice/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="63" column="1" lean-forward="false" selection-start-line="63" selection-start-column="1" selection-end-line="67" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_mongodb_basics/node_modules/mongodb-core/lib/topologies/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="665" column="5" lean-forward="false" selection-start-line="665" selection-start-column="5" selection-end-line="665" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_mongodb_basics/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_mongodb_basics/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_mongodb_basics/01_mongo_basics.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="40" column="45" lean-forward="true" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+          <folding>
+            <element signature="e#7791#7933#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_create_album/app/data/db.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_create_album/app/local.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_create_album/app/data/backend_helpers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_create_album/app/handlers/helpers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="62" column="0" lean-forward="false" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_create_album/app/handlers/albums.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="55" column="19" lean-forward="false" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_create_album/app/data/album.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="134" column="10" lean-forward="false" selection-start-line="134" selection-start-column="10" selection-end-line="134" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_create_album/static/templates/admin_add_album.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_with_user_auth/app/handlers/helpers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_create_album/app/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="32" column="42" lean-forward="false" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_create_album/app/handlers/pages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_create_album/static/templates/admin_add_photos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="82" column="19" lean-forward="false" selection-start-line="82" selection-start-column="19" selection-end-line="82" selection-end-column="19" />
           <folding />
         </state>
       </provider>
