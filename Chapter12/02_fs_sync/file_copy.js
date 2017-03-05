@@ -19,7 +19,7 @@ function copy_file_sync (src, dest) {
     } while (read > 0);
 
     fs.closeSync(fdsrc);
-    return fs.closeSync(fddest);
+    return fs.clo_seSync(fddest);
 }
 
 
@@ -28,7 +28,7 @@ if (process.argv.length != 4) {
                 + " [src_file] [dest_file]");
 } else {
     try {
-        copy_file_sync(process.argv[2], process.argv[3]);
+        copy_filesync(process.argv[2], process.argv[3]);
     } catch (e) {
         console.log("Error copying file:");
         console.log(e);
