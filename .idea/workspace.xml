@@ -598,7 +598,7 @@
       <option name="presentableId" value="Default" />
       <updated>1488190757057</updated>
       <workItem from="1488190758372" duration="18349000" />
-      <workItem from="1488374246602" duration="58495000" />
+      <workItem from="1488374246602" duration="58519000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1488192284395</created>
@@ -677,11 +677,18 @@
       <option name="project" value="LOCAL" />
       <updated>1488661520209</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="&lt;&lt;EOF&#10;* Deployment&#10;* Level:Basic &#10;* Using screen to Monitor the Output&#10;* Level:Ninja   19:32&#10;*  video/27/95&#10;* Multiprocessor Deployment: Using a Proxy&#10;* Multiple Servers and Sessions &#10;* Virtual Hosting 09:54 &#10;* Securing your Projects with HTTPS/SSL  10:54&#10;* Generating Test Certificates&#10;* Proxy Server Support 14:39 &#10;* Multiplatform Development 16:59 &#10;* Locations and Configuration Files &#10;* Handling Path Differences &#10;* video/27/96&#10;EOF&#10;">
+      <created>1488688434363</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1488688434363</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76844000" />
+    <option name="totallyTimeSpent" value="76868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="29" y="57" width="1251" height="943" extended-state="0" />
@@ -725,7 +732,8 @@
     <MESSAGE value="&lt;&lt;EOF&#10;* Building Web Applications with Express 00:00 &#10;* Installing Express&#10;* Hello World in Express :&#10;* routing and Layers in Express 01:25&#10;* Routing Basics&#10;* Uploading Your Photo Album App for Routing 03:23&#10;* REST API Design and Modules&#10;* Modules &#10;* Additional Middleware Functionality 10:12 &#10;* ENV configurations&#10;* Ordering of Middleware &#10;* Static file Handling 17:18&#10;* File Uploads 18:08&#10;* Compressing Output 20:59&#10;* Adding Authentication to our Application 21:03 &#10;* Flash Messages&#10;* Error handling 25:09&#10;*  video/27/91&#10;EOF&#10;&#10;&#10;" />
     <MESSAGE value="&lt;&lt;EOF&#10;* MongoDB&#10;* Using Mongo DB in Node.js&#10;* Structuring Your Data for mongoDB&#10;* video/27/92&#10;* Updating Your Photo Albums App&#10;* Writing the Low-Level Operations&#10;* Creating a Configuration Files&#10;* Getting Your Databases and Collections &#10;* Creating an Album 03:49 &#10;* Finding Albums 08:23&#10;* Listing All Albums 10:02&#10;* Getting the Photos in an Album  11:42&#10;* Adding a photo to an Album &#10;* video/27/93&#10;EOF&#10;&#10;" />
     <MESSAGE value="&#10;&lt;&lt;EOF&#10;* Installing MySQL&#10;* Adding the mysql Module form nom&#10;* Basic Database Operations 02:43&#10;* Adding Queries 06:18&#10;* Updating the Photo Sharing Application 08:39 &#10;* Authenticating via the Database  10:18&#10;* Update the API to Support Users &#10;* video/27/94&#10;EOF&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;&lt;&lt;EOF&#10;* Installing MySQL&#10;* Adding the mysql Module form nom&#10;* Basic Database Operations 02:43&#10;* Adding Queries 06:18&#10;* Updating the Photo Sharing Application 08:39 &#10;* Authenticating via the Database  10:18&#10;* Update the API to Support Users &#10;* video/27/94&#10;EOF&#10;" />
+    <MESSAGE value="&lt;&lt;EOF&#10;* Deployment&#10;* Level:Basic &#10;* Using screen to Monitor the Output&#10;* Level:Ninja   19:32&#10;*  video/27/95&#10;* Multiprocessor Deployment: Using a Proxy&#10;* Multiple Servers and Sessions &#10;* Virtual Hosting 09:54 &#10;* Securing your Projects with HTTPS/SSL  10:54&#10;* Generating Test Certificates&#10;* Proxy Server Support 14:39 &#10;* Multiplatform Development 16:59 &#10;* Locations and Configuration Files &#10;* Handling Path Differences &#10;* video/27/96&#10;EOF&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&lt;&lt;EOF&#10;* Deployment&#10;* Level:Basic &#10;* Using screen to Monitor the Output&#10;* Level:Ninja   19:32&#10;*  video/27/95&#10;* Multiprocessor Deployment: Using a Proxy&#10;* Multiple Servers and Sessions &#10;* Virtual Hosting 09:54 &#10;* Securing your Projects with HTTPS/SSL  10:54&#10;* Generating Test Certificates&#10;* Proxy Server Support 14:39 &#10;* Multiplatform Development 16:59 &#10;* Locations and Configuration Files &#10;* Handling Path Differences &#10;* video/27/96&#10;EOF&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
