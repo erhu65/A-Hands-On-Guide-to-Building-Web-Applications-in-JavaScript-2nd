@@ -2,9 +2,9 @@
 
 exports.config = {
     db_config: {
-        host: "localhost",
+        host: "172.20.10.4",
         user: "root",
-        password: "",
+        password: "admin123",
         database: "PhotoAlbums",
 
         pooled_connections: 125,
